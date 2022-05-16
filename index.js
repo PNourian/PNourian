@@ -8,9 +8,8 @@ var server = http.createServer(serverHandler)
 function serverHandler(req, res) {
     res.statusCode = 200
 
-    if (req.method === 'GET' && (req.url == "/" || req.url == "/home.html")) {
-        
-        res.setHeader('Content-Type', 'text/html');
+    if (req.method === 'GET' && (req.url == "/" || req.url == "/home")) {
+                res.setHeader('Content-Type', 'text/html');
         fs.createReadStream(path.resolve(__dirname, 'index.html')).pipe(res);
     }
 
