@@ -29,23 +29,19 @@
 ---
 
 <details>
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Github Stats</summary>
 	
-<code>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</code>
+| <img align="left" src="https://github-readme-stats.vercel.app/api?username=pnourian&show_icons=true&locale=en&hide_border=true&hide_border=true" alt="pnourian" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnourian&show_icons=true&locale=en&layout=compact&hide_border=true" alt="pnourian" /> |
+| ------------- | ------------- |
 
 </details>
 
 ---
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=pnourian&show_icons=true&locale=en&hide_border=true&hide_border=true" alt="pnourian" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnourian&show_icons=true&locale=en&layout=compact&hide_border=true" alt="pnourian" /> |
-| ------------- | ------------- |
-
 <br/>
 <br/>
-<p align="right">
-<a href="https://dev.to/pnourian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pnourian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13958925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pnourian" height="30" width="40" /></a>
-</p>
+<div align="right">
+<a href="https://discordapp.com/users/163141963284086785" target="blank"><img src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/discord.svg" alt="pnourian" height="30" width="40" /></a>
+<a href="https://dev.to/pnourian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pnourian" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13958925" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pnourian" height="30" width="40" /></a>
+</div>
