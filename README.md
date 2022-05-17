@@ -13,6 +13,7 @@
 <br/>
 <br/>
 <img width=200 height=200 align=right src=https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/gif/techstack.gif />
+<br/>
 
 - 🛠️ I’m currently working on [Token Grabber](https://github.com/PNourian/Hazard-Token-Grabber-V3)
 
@@ -30,8 +31,10 @@
 <details>
 <summary>:zap: Recent GitHub Activity</summary>
 	
+<code>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</code>
 
 </details>
 
