@@ -15,15 +15,19 @@
 <img width=200 height=200 align=right src=https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/gif/techstack.gif />
 <br/>
 
-- 🛠️ I’m currently working on Some private repositories :)
+- 🛠️ I’m currently working on Nourian Bot... Coming soon :)
 
 <br/>
 
-- 🌱 I’m currently learning **Java and C#**
+- 🌱 I’m currently learning **Unreal Engine and Go**
 
 <br/>
 
-- ✅ I’m also a Discord developer
+- ✅ I’m also Minecraft and Discord developer
+
+<br/>
+
+- 🤝 Part of [Hera](https://discord.gg/kYxt96amk9), [ZєRᎧ](https://discord.gg/2eZJpMpfXS) and [MrStudiosFa](https://mrstudiosfa.ir/) team
 
 
 ---
