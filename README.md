@@ -27,7 +27,7 @@
 
 <br/>
 
-- 🤝 Part of [Hera](https://discord.gg/kYxt96amk9), [ZєRᎧ](https://discord.gg/2eZJpMpfXS) and [MrStudiosFa](https://mrstudiosfa.ir/) team
+- 🤝 Part of [Hera](https://discord.gg/kYxt96amk9) team
 
 
 ---
