@@ -48,6 +48,6 @@
 <br/>
 <div align="right">
 <a href="https://discordapp.com/users/163141963284086785" target="blank"><img src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/discord.svg" alt="pnourian" height="30" width="40" /></a>
-<a href="https://dev.to/pnourian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pnourian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13958925" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pnourian" height="30" width="40" /></a>
+<a href="https://dev.to/pnourian" target="blank"><img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/devto.svg)" alt="pnourian" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13958925" target="blank"><img src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/stack-overflow.svg" alt="pnourian" height="30" width="40" /></a>
 </div>
