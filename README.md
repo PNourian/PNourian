@@ -15,7 +15,7 @@
 <img width=200 height=200 align=right src=https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/gif/techstack.gif />
 <br/>
 
-- 🛠️ I’m currently working on Nourian Bot... Coming soon :)
+- 🛠️ I’m currently working on Sudo Discord Bot... Coming soon :)
 
 <br/>
 
