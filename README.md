@@ -2,6 +2,8 @@
 <h3 align="center">A 16y/o Iranian Programmer</h3>
 
 <div align="center">
+<code><img src="https://badgen.net/discord/members/kYxt96amk9"></code>
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/python.svg" alt="python"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/javascript.svg" alt="javascript"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/csharp.svg" alt="csharp"/></code>
