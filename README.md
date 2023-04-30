@@ -19,11 +19,11 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Unreal Engine and Go**
+- 🌱 I’m currently learning **Unreal Engine**
 
 <br/>
 
-- ✅ I’m also Minecraft and Discord developer
+- ✅ I’m also Software Developer, Minecraft and Discord developer, Noob IT Manager
 
 <br/>
 
