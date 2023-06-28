@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **How to live**
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <br/>
 
-- 🤝 Part of [Hera](https://discord.gg/kYxt96amk9) team
+- 🤝 Part of [RTHEN](https://discord.gg/kYxt96amk9) Studio
 
 
 ---
