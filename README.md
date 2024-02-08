@@ -29,7 +29,7 @@
 
 <br/>
 
-- 🤝 Part of [RTHEN](https://discord.gg/kYxt96amk9) Studio
+- 🤝 Owner of [RTHEN Studio](https://discord.gg/kYxt96amk9) and [Elva Games](https://elva.games)
 
 
 ---
