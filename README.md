@@ -33,7 +33,7 @@
 
 
 ---
-
+<!--START_SECTION:activity--> 
 <details>
 <summary>:zap: Github Stats</summary>
 	
@@ -41,7 +41,7 @@
 | ------------- | ------------- |
 
 </details>
-
+<!--END_SECTION:activity--> 
 ---
 
 <br/>
