@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PNourian</h1>
-<h3 align="center">A 16y/o Iranian Programmer</h3>
+<h3 align="center">A 16y/o Iranian Developer</h3>
 
 <div align="center">
 <code><img src="https://badgen.net/discord/members/kYxt96amk9"></code>
@@ -17,7 +17,7 @@
 <img width=200 height=200 align=right src=https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/gif/techstack.gif />
 <br/>
 
-- 🛠️ I’m currently working on Sudo Discord Bot... Coming soon :)
+- 🛠️ I’m currently working on Elva Games... Coming soon :)
 
 <br/>
 
@@ -25,14 +25,13 @@
 
 <br/>
 
-- ✅ I’m also Software Developer, Minecraft and Discord developer, Noob IT Manager
+- ✅ I’m also Software Developer, Minecraft and Discord developer, Amateur IT Manager
 
 <br/>
 
 - 🤝 Owner of [RTHEN Studio](https://discord.gg/kYxt96amk9) and [Elva Games](https://elva.games)
 
 
----
 <!--START_SECTION:activity--> 
 <details>
 <summary>:zap: Github Stats</summary>
@@ -42,7 +41,6 @@
 
 </details>
 <!--END_SECTION:activity--> 
----
 
 <br/>
 <br/>
