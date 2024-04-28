@@ -31,6 +31,8 @@
 
 - 🤝 Owner of [RTHEN Studio](https://discord.gg/kYxt96amk9) and [Elva Games](https://elva.games)
 
+<br/>
+<br/>
 
 <!--START_SECTION:activity--> 
 <details>
